@@ -4,7 +4,7 @@
 
 </p>
    
-<h1 align="center">Hi, we are smartup! <img src="https://user-images.githubusercontent.com/2111803/133785321-4149da2c-1a3a-4040-b561-74e73cadd573.gif" width="30px"></h1>
+<h1 align="center">Hi, we are smartup! <img src="https://user-images.githubusercontent.com/2111803/133785321-4149da2c-1a3a-4040-b561-74e73cadd573.gif" height="30px"></h1>
 
 Smartup is a Mobile Applications Service Provider, founded in 2012, in Thessaloniki Greece by people passionate with technology and marketing!
 
