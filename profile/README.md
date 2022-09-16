@@ -32,7 +32,7 @@ Smartup is a Mobile Applications Service Provider, founded in 2012, in Thessalon
 
 ### 🚀 We are hiring!
 
-Either a senior or intern, we are always looking for fresh people people with a will to learn! Feel free to send us your resume at ✉️<a href="mailto:hr@smartupweb.com" alt="hr@smartupweb.com">hr@smartupweb.com</a>.
+Either a senior or intern, we are always looking for fresh people with a will to learn! Feel free to send us your resume at ✉️<a href="mailto:hr@smartupweb.com" alt="hr@smartupweb.com">hr@smartupweb.com</a>.
 
 
 ---
